@@ -1,4 +1,4 @@
-## Hi, I'm Luna 👩‍💻🙌
+# Hi, I'm Luna 👩‍💻🙌
 <img width="1640" height="924" alt="Developer, student   Lifelong Learner" src="https://github.com/user-attachments/assets/be046b8d-59ef-49eb-b8be-e2529759d80f" />
 
 I'm an Applied Computer Science student whose passionate about building technology that leaves a lasting impact. Some technologies i enjoy working with are Java, ReactNative and TypeScript.
@@ -7,7 +7,7 @@ While you won’t see a crowded feed here just yet, I am actively curating this 
 
 ---
 
-## 🔭 Current Focus
+# 🔭 Current Focus
 - **Human-Centric Tech**  
   Creating projects that make a meaningful difference by combining programming with insights from cyber psychology. *(<ins>My current read:</ins> "The Cyber Effect" by Dr. Mary Aiken!)*
 
@@ -18,7 +18,7 @@ While you won’t see a crowded feed here just yet, I am actively curating this 
     Currently learning a lot through my internship, while also working on strengthening my fundamentals to get better at building things that actually help people.
 
 ---
-## 🛠️ Technical Toolkit
+# 🛠️ Technical Toolkit
 - Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -37,7 +37,7 @@ While you won’t see a crowded feed here just yet, I am actively curating this 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-## 🌱 Beyond the Code...
+# 🌱 Beyond the Code...
 Outside of coding, I try to stay curious in ways that don't involve a screen:
 
 - **Cyber Psychology**  
