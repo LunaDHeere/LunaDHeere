@@ -1,7 +1,7 @@
 # Hi, I'm Luna 👩‍💻🙌
 <img width="1640" height="924" alt="Developer, student   Lifelong Learner" src="https://github.com/user-attachments/assets/be046b8d-59ef-49eb-b8be-e2529759d80f" />
 
-I'm an Applied Computer Science student whose passionate about building technology that leaves a lasting impact. Some technologies i enjoy working with are Java, ReactNative and TypeScript.
+I'm an Applied Computer Science student who is passionate about building technology that leaves a lasting impact. Some technologies i enjoy working with are Java, ReactNative and TypeScript.
 
 While you won’t see a crowded feed here just yet, I am actively curating this GitHub to serve as a high-quality portfolio. My philosophy is to mostly showcase **"la crème de la crème"!** quality over quantity, featuring projects that truly represents my *current* best work😉
 
